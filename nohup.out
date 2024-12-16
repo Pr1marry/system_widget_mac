@@ -1,0 +1,2 @@
+2024-11-02 01:24:25.556 Python[20508:3044762] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2024-11-02 07:38:46.406 Python[22076:3058023] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
